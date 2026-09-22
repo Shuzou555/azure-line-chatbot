@@ -1,9 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=linebotstorage001;AccountKey=ozELNhYO8iOinflqRYYc0XNE8e0Sd/MWEDP8ZbhhbWO6LQQXSnGd6y1fYvsf+J/HZ7cctJeJmmR4+AStZYlNbw==;EndpointSuffix=core.windows.net",
-    "FUNCTIONS_WORKER_RUNTIME": "python",
-    "LINE_CHANNEL_SECRET":"03588bcb5cc4b6de14bcdfedf76e1e9a",
-    "LINE_CHANNEL_ACCESS_TOKEN":"U40c8j0SG1KGBYQpEyJpHkZG5oBcJFG5BWBVh9alKQjFp2CBcbpceTAN8W7PKukpiSi6gKPem5NGPwXDqowIrPlXoSOaPPN9/vPqQXqVVAifHhpylcDelx1NkI3idEBLvlkFo5hS3p2CZcdC4zyUmwdB04t89/1O/w1cDnyilFU="
-  }
-}
